@@ -1,0 +1,15 @@
+div{
+	width: 100px;
+	height: 100px;
+	background-color: #595959;
+	border: 1px solid black;
+	margin: 8px;	
+}
+.lado{
+	display: inline-block;
+}
+.padre{
+	height: 120px;
+	width: 365px;	
+	margin: 7px ;
+}
